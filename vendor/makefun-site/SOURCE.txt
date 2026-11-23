@@ -1,0 +1,2 @@
+Inlined makefun-site 1.0.0 into solve.js for this speed entry.
+Upstream: metalsmith 2.7.0 (MIT), marked 18.2.1 (MIT). See NOTICE.
